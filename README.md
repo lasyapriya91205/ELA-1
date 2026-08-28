@@ -24,3 +24,7 @@ Project Report: A concise 3-page PDF outlining:
   * Abstract & Data Preprocessing workflow (Text cleaning, tokenisation, padding/truncation).
   * Model Architecture Diagram and hyperparameter choices.
   * Evaluation Metrics (Loss/Accuracy curves, Confusion Matrix, and F1-Score).
+## My Submission
+
+- Colab Notebook: https://colab.research.google.com/drive/1bamV9cKz0ukFPB4-5Cg1pluXq-E5RG9P?usp=sharing
+- Report: Project_Report.pdf (uploaded in this repo)
